@@ -1,0 +1,15 @@
+Epoch 1/1
+----------
+Train loss 0.02923036953063233
+Validation F1 Score: 0.8709245827758609
+Validation Accuracy: 0.6872164398185214
+KNN & BERT & CL Validation F1 Score with Lambda(0.5,3): 0.8709245827758609
+KNN & BERT & CL Validation Accuracy with Lambda(0.5,3): 0.6872164398185214
+KNN & BERT & CL Validation F1 Score with Lambda(0.5,5): 0.8760539629005059
+KNN & BERT & CL Validation Accuracy with Lambda(0.5,5): 0.6973578863090473
+KNN & BERT & CL Validation F1 Score with Lambda(0.5,3): 0.8730857981959304
+KNN & BERT & CL Validation Accuracy with Lambda(0.5,3): 0.7029623698959168
+KNN & BERT & CL Validation F1 Score with Lambda(0.5,5): 0.8697286012526095
+KNN & BERT & CL Validation Accuracy with Lambda(0.5,5): 0.7045636509207366
+KNN & BERT & CL Validation F1 Score with Lambda(0.5,3): 0.863441603317208
+KNN & BERT & CL Validation Accuracy with Lambda(0.5,3): 0.6965572457966374
